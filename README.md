@@ -1,7 +1,7 @@
 # Generative Art Projects
 Generating art with P5JS and fun data.
 
-Current data is the mean average temperature from every month since August 1993 for SLC.
+Current data is number of commits per day on mavenlink/mavenlink since 1 year back from the day of this commit.
 
 ### Installation
 
